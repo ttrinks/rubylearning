@@ -18,7 +18,7 @@ The Idea is to create a file for each concept, e.g.
     regular_expressions.rb
     reading_and_writing_files.rb
     blocks_and_yield.rb # maybe just adapt https://github.com/neo/ruby_koans/blob/master/src/about_blocks.rb
-
+    reflection.rb # get method names, find out if an object responds to a method, send a message to an object where you have the method name in a string
 
 ## Getting started
 
